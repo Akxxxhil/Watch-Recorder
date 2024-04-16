@@ -32,4 +32,17 @@
     top: 50px;
     font-size: 70px;
 }
+@media (max-width:450px) {
+    .display-watch{
+        height: 140px;
+        width: 250px;
+    }
+    .display-watch .para{
+        font-size: 30px;
+        text-align: center;
+        position: relative;
+        top: 35px;
+    }
+}
+
 
